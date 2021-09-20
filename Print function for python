@@ -1,1 +1,3 @@
 print("Hello there")
+print(f"{<variable>}Hello there")
+print("Hello there,.format()")
